@@ -1,16 +1,18 @@
-[
-  {
-    "id": "ghost-whey-x-chips-ahoy",
-    "name": "Ghost Whey X Chips Ahoy",
-    "details": "We've said it before and we will say it again, nothing beats the real thing. With years of R&D and REAL CHIPS AHOY!® cookie pieces in every scoop, this flavor is second to none.",
-    "price": "$39.99",
-    "image": "https://img.freepik.com/premium-psd/croissant-isolated-transparent-background_879541-876.jpg?w=1380"
-  },
-  {
-    "id": "ghost-whey-vegan",
-    "name": "GHOST® Vegan Protein",
-    "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
-    "price": "$49.99",
-    "image": "https://w7.pngwing.com/pngs/586/1024/png-transparent-ice-cream-cones-sorbet-gelato-neapolitan-ice-cream-ice-cream-thumbnail.png"
-  }
-]
+{
+  "products": [
+    {
+      "id": "ghost-whey-x-chips-ahoy",
+      "name": "Ghost Whey X Chips Ahoy",
+      "details": "We've said it before and we will say it again, nothing beats the real thing. With years of R&D and REAL CHIPS AHOY!® cookie pieces in every scoop, this flavor is second to none.",
+      "price": "$39.99",
+      "image": "https://img.freepik.com/premium-psd/croissant-isolated-transparent-background_879541-876.jpg?w=1380"
+    },
+    {
+      "id": "ghost-whey-vegan",
+      "name": "GHOST® Vegan Protein",
+      "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
+      "price": "$49.99",
+      "image": "https://w7.pngwing.com/pngs/586/1024/png-transparent-ice-cream-cones-sorbet-gelato-neapolitan-ice-cream-ice-cream-thumbnail.png"
+    }
+  ]
+}
